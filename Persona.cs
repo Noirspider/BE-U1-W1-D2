@@ -17,7 +17,7 @@
         public int getEta() { return eta; }
         public string getDettagli()
         {
-            return "nome: " + nome + "\tcognome: " + cognome + "\tetà: " + eta + " anni";
+            return "nome: " + nome + "\ncognome: " + cognome + "\netà: " + eta + " anni";
         }
     }
 
